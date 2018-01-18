@@ -1,4 +1,4 @@
-import ChluIPFS from 'chlu-ipfs-support'
+import ChluIPFS from 'chlu-ipfs-support/src'
 
 export async function getChluIPFS(type) {
     const options = { type };
